@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqNormalize/example
+Plugin PhyloSeqNormalize inputfile otu_table.csv outputfile otu_table.norm.csv
